@@ -9,7 +9,7 @@ def create_folders(base_path, folder_names):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage:
+
 base_path = '/Users/muhammedshahidchammayil/'
-folder_names = ['Folder1', 'Folder2', 'Folder3', 'Folder4']
+folder_names = ['Thank you', 'For', 'Considering', 'My Application']
 create_folders(base_path, folder_names)
